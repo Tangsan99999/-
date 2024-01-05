@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;6d7faf6b265c3ae78c07f2dca4d1bb1d",
+  "spider": "./custom_spider.jar;md5;d1bbc73519054c503f21ff305603d97b",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -31,7 +31,7 @@
       "key": "山海",
       "name": "山海",
       "type": 3,
-      "api": "csp_Hmys",
+      "api": "csp_Dora",
       "searchable": 1,
       "changeable": 1,
       "ext": "607c95dca7409bd1fc898d2fc231f04b"
