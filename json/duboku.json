@@ -33,7 +33,7 @@
   "cateVodImg": "/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "https://my.duboku.vip/voddetail/{vid}.html",
+  "dtUrl": "https://w.duboku.io/voddetail/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
   "dtNameR": "",
