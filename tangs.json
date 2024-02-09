@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;8966ec3fc4a3bc6f329702ffad06d255",
+  "spider": "./custom_spider.jar;md5;7eec4a2bbbf4419fb10ca7c2d0e24b9c",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -70,7 +70,7 @@
       "key": "獨播",
       "name": "獨播",
       "type": 3,
-      "api": "csp_XPathMacFilter",
+      "api": "csp_XPathdbk",
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json"
@@ -473,15 +473,6 @@
       ],
       "regex": [
         "25.1"
-      ]
-    },
-    {
-      "name": "独播库嗅探",
-      "hosts": [
-        "stm.nboku.com"
-      ],
-      "regex": [
-        "m3u8?sign="
       ]
     },
     {
